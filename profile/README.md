@@ -4,6 +4,6 @@ We help startups get off the ground by providing personal advice and crafting th
 
 🌈 [**Explore our open source projects**](https://github.com/orgs/includable/repositories)
 
-👩‍💻 [**Schedule an intro call**](https://includable.com/consulting)
+👩‍💻 [**Schedule an intro call**](https://includable.com/consultancy)
 
 🚗 [**Read more about what we do**](https://includable.com)

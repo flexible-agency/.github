@@ -1,4 +1,4 @@
-# Helping your first company take flight
+# Helping your company take flight
 
 We help startups get off the ground by providing personal advice and crafting the tech that powers social enterprises in education, retail and hospitality.
 
